@@ -11,7 +11,7 @@
 <details>
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
 &#x1F4BB;Cursando Informática no Colégio Satc <br> 
-&#x1F4BB;Aluno do 2° ano E.M do Colégio Satc <br>
+&#x1F4BB;Aluno da 2° ano E.M do Colégio Satc <br>
 &#x1F575;Futuro estagiário <br>
 &#x1F5FA;Cricíuma-SC	
 
