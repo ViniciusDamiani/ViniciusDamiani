@@ -20,10 +20,6 @@
 &#x1F4F2;Me segue no instagram!
  <p align="left">
  <a href="https://www.instagram.com/vinidamiani_/?hl=pt-br"> <img src="logoinsta.png" width="40" heigth="40"> </a> </p>
-
-&#x1F680;Veja meu desempenho:
- ![ViniciusDamiani's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusDamiani&show_icons=true&theme=radical)  
-
 </details>
 
 <br>
@@ -31,7 +27,7 @@
 &#x1F4BB;Linguagem de Programação.
 </font>
 <details>
-<summary> <b>Aqui está os exercícios realizados. </b> </summary>
+<summary> <b>Aqui está alguns exercícios realizados por mim. </b> </summary>
 &#x1F4C5; Dia: 31/08/2020 <br>
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio7.py">Exercício-7 </a><br> 
 &#x2705;<a href = "https://github.com/ViniciusDamiani/infosatc-lp-avaliativo-01/blob/master/exerc%C3%ADcio11.py">Exercício-11 </a><br> 
@@ -51,7 +47,6 @@
 &#x1F198;Auto ajuda!
 </font>
 </details>
-
 <details>
 <summary> <b>Aqui estão armazenados alguns comandos que podem salvar você...</b></summary>
 &#x1F3A8;<a href ="https://www.flextool.com.br/tabela_cores.html">Tabela de cores</a><br>
@@ -62,16 +57,29 @@
 </details>
 
 <br>
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+&#x1F4D6;Linguagens
+</font>
+<details>
+<summary> <b>Algumas linguagens de maior conhecimento!</b></summary>
+&#x1F4BB;C++  Voltado para parte de <a href = "https://www.arduino.cc/">Arduino</a><br>
+&#x1F40D;Python
+</details>
+
+<br>
+
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+&#X1F6E0;Projetos
+</font>
+<details>
+<summary> <b>Projetos realizados!</b></summary>
+Esses projetos foram realizados em duplas, tendo como parceiro meu colega <a href="https://github.com/victorbonomi16">Victor Bonomi.</a><br>
+&#x1F4CC;Bem Saude - Um app mobile voltado para área da saúde, sendo possível calcular seu IMC e em seguida lhe recomendando uma sequência de exercícios;<br>
+&#x1F4CC;Falling the Grotto - Um game baseado no Hill Climb Race, co intuito de gerar a diversão no jogador;<br>
+&#x1F6A7;Smart House Dog - Uma comodidade para o dono e um conforto para seu cãozinho. Esse projeto(TCC) foi desenvolvido para as pessoas que possuem uma rotina atarefa e como consequência deixam seu cãozinho com excesso de comida em seus recipientes. Pensando nisso a SmartHouse Dog é uma casa de cachorro e  tem como vantagem a alimentação(Agua e Ração) de forma automática, sendo determinada um horário através de seu SmartPhone.<i> EM CONSTRUÇÃO...</i> 
+</details>
 
 <hr size="4" width="450" color="#0E0B16">
-
-<font face="Bahnschrift Condensed" size="5" color="#778899">
-<p align = "center">&#x1F3C3; Pyton &#x1F40D;	
-</p></font>
-<p align = "center">Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
-<br>
-<img src="codfoto.jpg" width="300" heigth="100"></p>
-<br>
 
 &#x1F4D6;<i>"Não é a linguagem de programação que define o programador, mas sim sua lógica.<br> 
 by: David Ribeiro Guilherme"</i> 
