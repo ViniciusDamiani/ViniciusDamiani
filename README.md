@@ -1,8 +1,8 @@
 <html><head>
 
-<div style="width:100%; height:0; padding-bottom:42%;position:relative;">
-<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<p align= "left">
+<img src="PerfilGif.gif" width="180" heigth="100">
+</p>
 
 
 
@@ -10,7 +10,7 @@
 <p align="left">
 &#x1F920; Olá, eu sou o Vinicius. 
 </p></font>
-<details>
+<details> 
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
 &#x1F4BB;Técnico em Informática formado no Colégio SATC <br> 
 &#x1F4BB;Cursando engenharida computação na UNISATC <br> 
