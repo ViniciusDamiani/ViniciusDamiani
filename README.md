@@ -1,7 +1,7 @@
 <html><head>
 
 <p align= "left">
-<img src="PerfilGif.gif" width="480" heigth="270">
+<img src="PerfilGif.gif" width="380" heigth="270">
 </p>
 
 
