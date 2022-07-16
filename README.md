@@ -1,10 +1,4 @@
 <html><head>
-
-<p align= "left">
-<img src="PerfilGif.gif" width="380" heigth="270">
-</p>
-
-
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
 <p align="left">
 &#x1F920; Olá, eu sou o Vinicius. 
@@ -52,11 +46,13 @@ Esses projetos foram realizados em duplas, tendo como parceiro meu colega <a hre
 <br>
 &#x1F4CC;Smart House Dog - Uma comodidade para o dono e um conforto para seu cãozinho. Esse projeto(TCC) foi desenvolvido para as pessoas que possuem uma rotina atarefa e como consequência deixam seu cãozinho com excesso de comida em seus recipientes. Pensando nisso a SmartHouse Dog é uma casa de cachorro e  tem como vantagem a alimentação(Agua e Ração) de forma automática, sendo determinada um horário através de seu SmartPhone. <i>Realizado durante o curso Técnico de Informática</i>
 </details>
-
- <div align="lef">
+<br>
+<font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
+&#X1F47D;Acompanhe
+<div align="lef">
   <a href="https://github.com/ViniciusDamiani">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDamiani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDamiani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDamiani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDamiani&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <hr size="4" width="450" color="#0E0B16">
