@@ -1,6 +1,9 @@
 <html><head>
 
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div style="width:100%; height:0; padding-bottom:42%;position:relative;">
+<iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
 
 
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
@@ -44,9 +47,11 @@
 <details>
 <summary> <b>Projetos realizados!</b></summary>
 Esses projetos foram realizados em duplas, tendo como parceiro meu colega <a href="https://github.com/victorbonomi16">Victor Bonomi.</a> <br>
-&#x1F4CC;Bem Saude - Um app mobile voltado para área da saúde, sendo possível calcular seu IMC e em seguida lhe recomendando uma sequência de exercícios;<i>Realizado durante o curso Técnico de Informática</i><br>
+&#x1F4CC;Bem Saude - Um app mobile voltado para área da saúde, sendo possível calcular seu IMC e em seguida lhe recomendando uma sequência de exercícios; <i>Realizado durante o curso Técnico de Informática</i><br>
+<br>
 &#x1F4CC;Falling the Grotto - Um game baseado no Hill Climb Race, com intuito de gerar entretenimento para jogador; <i>Realizado durante o curso Técnico de Informática</i><br>
-&#x1F4CC;Smart House Dog - Uma comodidade para o dono e um conforto para seu cãozinho. Esse projeto(TCC) foi desenvolvido para as pessoas que possuem uma rotina atarefa e como consequência deixam seu cãozinho com excesso de comida em seus recipientes. Pensando nisso a SmartHouse Dog é uma casa de cachorro e  tem como vantagem a alimentação(Agua e Ração) de forma automática, sendo determinada um horário através de seu SmartPhone.<i>Realizado durante o curso Técnico de Informática</i>
+<br>
+&#x1F4CC;Smart House Dog - Uma comodidade para o dono e um conforto para seu cãozinho. Esse projeto(TCC) foi desenvolvido para as pessoas que possuem uma rotina atarefa e como consequência deixam seu cãozinho com excesso de comida em seus recipientes. Pensando nisso a SmartHouse Dog é uma casa de cachorro e  tem como vantagem a alimentação(Agua e Ração) de forma automática, sendo determinada um horário através de seu SmartPhone. <i>Realizado durante o curso Técnico de Informática</i>
 </details>
 
 <hr size="4" width="450" color="#0E0B16">
