@@ -53,6 +53,12 @@ Esses projetos foram realizados em duplas, tendo como parceiro meu colega <a hre
 &#x1F4CC;Smart House Dog - Uma comodidade para o dono e um conforto para seu cãozinho. Esse projeto(TCC) foi desenvolvido para as pessoas que possuem uma rotina atarefa e como consequência deixam seu cãozinho com excesso de comida em seus recipientes. Pensando nisso a SmartHouse Dog é uma casa de cachorro e  tem como vantagem a alimentação(Agua e Ração) de forma automática, sendo determinada um horário através de seu SmartPhone. <i>Realizado durante o curso Técnico de Informática</i>
 </details>
 
+ <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDamiani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDamiani&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <hr size="4" width="450" color="#0E0B16">
 
 &#x1F4D6;<i>"Não é a linguagem de programação que define o programador, mas sim sua lógica.<br> 
