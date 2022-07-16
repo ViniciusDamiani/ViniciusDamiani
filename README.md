@@ -1,9 +1,8 @@
 <html><head>
 
 <p align= "left">
-<img src="PerfilGif.gif" width="180" heigth="100">
+<img src="PerfilGif.gif" width="480" heigth="270">
 </p>
-
 
 
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
