@@ -7,7 +7,7 @@
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
 &#x1F4BB;Técnico em Informática formado no Colégio SATC <br> 
 &#x1F4BB;Cursando engenharida computação na UNISATC <br> 
-&#x1F575;Estagiário na empresa <a href = "https://www.agpr5.com/">AGPR5 +20</a> <br>
+&#x1F575;Assistente de Software II na <a href = "https://www.agpr5.com/">AGPR5 +20</a> <br>
 &#x1F5FA;Cricíuma-SC	
 
 <br>
