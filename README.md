@@ -1,7 +1,7 @@
 <html><head>
 <font face="Bahnschrift Condensed" size="5" color="#C1CDC1">
 <p align="left">
-&#x1F920; Olá, eu sou o Dev. Back-End Vinicius. 
+&#x1F920; Olá, eu sou o Dev. Vinicius. 
 </p></font>
 <details> 
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
