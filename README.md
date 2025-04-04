@@ -7,7 +7,7 @@
 <summary> <b>Um pouco mais sobre mim... </b><i>(Aperta aí)</i> </summary>
 &#x1F4BB; Técnico em Informática formado no Colégio SATC <br> 
 &#x1F4BB; Cursando engenharida computação na UNISATC 4/9<br> 
-&#x1F575; Programador de Software II na <a href = "https://www.agpr5.com/">AGPR5 +20</a> <br>
+&#x1F575; Programador de Software IV na <a href = "https://www.agpr5.com/">AGPR5 +20</a> <br>
 &#x1F5FA; Cricíuma-SC	
 </details>
 
@@ -17,11 +17,10 @@
 </font>
 <details>
 <summary> <b>Algumas linguagens e áreas de maior conhecimento!</b></summary>
-&#x1F4BB; C++ voltado para parte de Embarcados(Arduino);<br>
+&#x1F4BB; Modelagem de Dados;<br>
+&#x1F4BB; Banco de Dados (SQL Server);<br>
 &#x1F4BB; C# Desktop(Windows Forms);<br>
 &#x1F4BB; Visual Basic - VB Desktop;<br>
-&#x1F4BB; Linguagem de Consulta Estrutural - SQL; <br>
-&#x1F4BB; Internet das Coisas - IoT; <br>
 </details>
 
 <br>
